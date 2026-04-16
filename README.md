@@ -7,14 +7,23 @@ Data analysis project based on Amazon dataset using Excel (pivot tables, formula
 This project is based on a case study I completed during my Code Academy data analytics training. The goal of this project was to analyze Amazon sales data and extract useful insights.
 
 📂 Dataset Columns
+
 Session ID
+
 Customer ID
+
 Session Time
+
 Session Duration (Seconds & Minutes)
+
 Customer Name & Surname
+
 Date of Birth / Age
+
 City
+
 Email & Email Type
+
 Book Category Suggestion
 
 🛠️ Tools & Skills Used
