@@ -27,42 +27,61 @@ Email & Email Type
 Book Category Suggestion
 
 🛠️ Tools & Skills Used
+
 Microsoft Excel
+
 Data Cleaning
+
 Excel Formulas (IF, IFERROR, MID, FIND)
+
 Pivot Tables
+
 Data Visualization (Charts)
+
 Slicers & Timeline Filters
 
 
 🔍 Tasks & Analysis
 1. Book Category Recommendation
+   
 Suggested book categories based on session behavior and given conditions.
 
 2. Session Duration Distribution
+   
 Created charts to visualize how session durations are distributed based on offers.
 
 3. Sessions by Offer & City
+   
 Built summary tables showing:
+
   Total number of sessions
+  
   Total session duration
 
 4. Sessions by Offer, City & Date
+   
 Extended analysis including time dimension for deeper insights.
 
 5. Email Type Analysis
+   
 Analyzed session counts by:
 
 Email type (Gmail, Yandex, Yahoo, None)
+
 Offer type
+
 Added interactive filters:
+
 City (Slicer)
+
 Year (Timeline)
 
 6. Customer Age Distribution
+   
 Visualized age distribution of customers based on offers.
 
 7. City Identification
+   
 Assigned cities to customers based on given data.
 
 📈 Key Outcomes
